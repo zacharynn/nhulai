@@ -65,7 +65,7 @@
                 <h4 class="modal-title">Kinh Lăng Nghiêm</h4>
             </div>
             <div class="modal-body" style="border:0px;padding:0px;height:100px;text-align: center">
-                <a href="#" class="iconsprites iconpause" id="playOrPause"></a>
+                <a href="" class="iconsprites iconpause" id="playOrPause"></a>
                 <audio src="mp3/kinh/thu-lang-nghiem/thich-tue-hai/59.mp3" id="player"></audio>
             </div>
             <div class="modal-footer" style="padding:0px;padding-bottom:2px;margin:0px">

@@ -56,7 +56,7 @@
     <div class="row">
         <div class="col-sm-4 sach">
             <div>
-                <img class="img-rounded img-responsive" src="images/phapcu.jpeg"><a href="#"
+                <img class="img-rounded img-responsive" src="images/phapcu.jpeg"><a href=""
                                                                                     class="iconsprites iconvideo"></a><a
                         href="" class="iconsprites iconaudio"></a>
             </div>
@@ -69,7 +69,7 @@
         </div>
         <div class="col-sm-4 sach">
             <div>
-                <img class="img-rounded img-responsive" src="images/ln1.jpg"><a href="#"
+                <img class="img-rounded img-responsive" src="images/ln1.jpg"><a href=""
                                                                                 class="iconsprites iconvideo"></a><a
                         href="" class="iconsprites iconaudio"></a>
             </div>
@@ -82,7 +82,7 @@
         </div>
         <div class="col-sm-4 sach">
             <div>
-                <img class="img-rounded img-responsive" src="images/phaphoa.jpeg"><a href="#"
+                <img class="img-rounded img-responsive" src="images/phaphoa.jpeg"><a href=""
                                                                                      class="iconsprites iconvideo"></a><a
                         href="" class="iconsprites iconaudio"></a>
             </div>
@@ -99,7 +99,7 @@
     <div class="row">
         <div class="col-sm-4 sach">
             <div>
-                <img class="img-rounded img-responsive" src="images/kimcang.jpeg"><a href="#"
+                <img class="img-rounded img-responsive" src="images/kimcang.jpeg"><a href=""
                                                                                      class="iconsprites iconvideo"></a><a
                         href="" class="iconsprites iconaudio"></a>
             </div>
