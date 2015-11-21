@@ -128,7 +128,7 @@
                         href="" class="iconsprites iconaudio"></a>
             </div>
             <div>
-                <h4>Kinh Đại Bát Niết Bàn</h4> 5Là bộ kinh do Phật Thích Ca thuyết trước khi Ngài Niết Bàn. Tại Việt
+                <h4>Kinh Đại Bát Niết Bàn</h4> Là bộ kinh do Phật Thích Ca thuyết trước khi Ngài Niết Bàn. Tại Việt
                 Nam, có hai bản Kinh Niết Bàn của Phật Giáo Nam Tông và Phật Giáo Bắc Tông. Kinh Ðại Bát Niết bàn của
                 Nam Tông, được tìm thấy trong Kinh Trường Bộ, [Kinh Ðại Bát Niết Bàn, (Hệ Pali), Việt dịch: Hòa Thượng
                 Thích Minh Châu, Viện Nghiên Cứu Phật Học Việt Nam ấn hành năm 1991]
