@@ -18,6 +18,7 @@ class Audio extends Migration
             $table->foreign('author_id')->references('id')->on('author')->onDelete('cascade');
             $table->string('filename');
             $table->string('original_filename');
+            $table->integer('duration')->default(1)->index();
             $table->integer('updated_by')->default(0)->index();
             $table->integer('deleted_by')->default(0)->index();
             $table->timestamp('created_at')->index();

@@ -243,7 +243,8 @@ hr {
   width: 65px;
   float: left;
   padding-left: 5px;
-  text-align: left; }
+  text-align: left;
+  font-size: 15px; }
 
 .ui-progressbar .ui-progressbar-value {
   margin: 0px !important;
@@ -262,7 +263,7 @@ hr {
   position: fixed;
   bottom: 0px;
   border-top: 1px solid #ccc;
-  height: 26px;
+  height: 36px;
   background-color: black; }
 
 .progressbar {

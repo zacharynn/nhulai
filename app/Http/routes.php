@@ -12,7 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('home');
+    $mp3 = base_path().'/public/mp3/kinh/thu-lang-nghiem/thich-tue-hai/59.mp3';
+    $m = new \App\Modules\MP3File($mp3);
+    $duration = $m->getDuration();
+    return view('home',compact('duration'));
 });
 
 Route::get('/home', function () {

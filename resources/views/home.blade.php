@@ -51,7 +51,7 @@
 
 
 <div ng-view>
-@include('pages.home')
+
 </div>
 
 
@@ -66,7 +66,7 @@
             </div>
             <div class="modal-body" style="border:0px;padding:0px;height:100px;text-align: center">
                 <a href="" class="iconsprites iconpause" id="playOrPause"></a>
-                <audio src="mp3/kinh/thu-lang-nghiem/thich-tue-hai/59.mp3" id="player"></audio>
+                <audio src="mp3/kinh/thu-lang-nghiem/thich-tue-hai/59.mp3" id="player" duration="{{$duration}}"></audio>
             </div>
             <div class="modal-footer" style="padding:0px;padding-bottom:2px;margin:0px">
                 <div class="playerprogressbar" style="width:100%">
@@ -188,7 +188,7 @@
             value: 0
         });
         $('#player').on('timeupdate', function () {
-            $('.playertimer').html(secondsToHms(this.duration - this.currentTime));
+            $('.playertimer').html(secondsToHms($(this).attr('duration') - this.currentTime));
             var percentage = this.currentTime / this.duration * 100;
             $(".progressbar").progressbar("option", "value", percentage);
 
